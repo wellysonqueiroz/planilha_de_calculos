@@ -1,0 +1,58 @@
+body{
+
+background-color: #171c26;
+
+}
+
+.table{
+   height: 500px;
+   text-align: center;
+   width: 600px;
+   margin: auto;
+   font-weight: 210;
+   background-color: #dbdbdb;
+   border-radius: 10px;
+}
+input{
+background-color: rgb(185, 185, 185);
+  
+}
+ #reset{
+    width: 100px;
+    padding: 5px 10px;
+    font-weight: 400;
+    color: antiquewhite;
+    background-color: darkred;
+    border: 1px solid #333;
+    border-radius: 10px;
+   
+}
+#calcular{
+  width: 100px;
+  padding: 5px 10px;
+  font-weight: 400;
+  color: antiquewhite;
+  background-color: #1aaf6e;
+  border: 1px solid #333;
+  border-radius: 10px;
+
+}
+
+div {
+ 
+  margin-left: 43% ;
+
+}
+
+h1{
+
+  text-align: center;
+  font-family: serif;
+  color: #ffb647;
+}
+
+.total{
+     background-color: rgb(126, 126, 126);
+     color: #fff;
+
+}
